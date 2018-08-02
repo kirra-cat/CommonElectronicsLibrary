@@ -600,23 +600,6 @@ GenerateClassCluster=0
 DocumentUniqueId=BQTFFBCV
 
 [Document34]
-DocumentPath=PcbLib_CommonElectronicsLibrary.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=PCABIQST
-
-[Document35]
 DocumentPath=PcbLib_Pin_Headers.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -633,7 +616,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NWCMTPTA
 
-[Document36]
+[Document35]
 DocumentPath=PcbLib_RC.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -650,7 +633,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ONJLPLJW
 
-[Document37]
+[Document36]
 DocumentPath=PcbLib_ICs.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -667,7 +650,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XANYHLOI
 
-[Document38]
+[Document37]
 DocumentPath=PcbLib_Others.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -684,7 +667,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QOYPUYRG
 
-[Document39]
+[Document38]
 DocumentPath=PcbLib_Discrete.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -701,7 +684,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SEVEWXNI
 
-[Document40]
+[Document39]
 DocumentPath=PcbLib_Connectors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
