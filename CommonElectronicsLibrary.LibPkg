@@ -838,23 +838,6 @@ GenerateClassCluster=0
 DocumentUniqueId=NWCMTPTA
 
 [Document48]
-DocumentPath=PcbLib_RC.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=ONJLPLJW
-
-[Document49]
 DocumentPath=PcbLib_ICs.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -871,7 +854,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XANYHLOI
 
-[Document50]
+[Document49]
 DocumentPath=PcbLib_Others.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -888,7 +871,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QOYPUYRG
 
-[Document51]
+[Document50]
 DocumentPath=PcbLib_Discrete.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -905,7 +888,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SEVEWXNI
 
-[Document52]
+[Document51]
 DocumentPath=PcbLib_Connectors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -921,6 +904,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MNNQPSXE
+
+[Document52]
+DocumentPath=PcbLib_RC.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ONJLPLJW
 
 [OutputGroup1]
 Name=Netlist Outputs
