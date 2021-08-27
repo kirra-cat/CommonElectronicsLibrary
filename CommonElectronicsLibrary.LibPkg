@@ -1398,6 +1398,23 @@ GenerateClassCluster=0
 DocumentUniqueId=XTGVLGME
 
 [Document81]
+DocumentPath=Schlib_VZPP_S.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VSQMHGNM
+
+[Document82]
 DocumentPath=Schlib_Xilinx.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1414,7 +1431,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OLSQEDPM
 
-[Document82]
+[Document83]
 DocumentPath=Schlib_Wakefield_Vette.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1431,7 +1448,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZVDFIZOS
 
-[Document83]
+[Document84]
 DocumentPath=Schlib_Winbond_Electronics.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1448,7 +1465,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VLRFWMAO
 
-[Document84]
+[Document85]
 DocumentPath=Schlib_Wurth_Electronics.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1465,7 +1482,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DJMBEBCF
 
-[Document85]
+[Document86]
 DocumentPath=Schlib_OtherComponents.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1482,7 +1499,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HOHBTCDF
 
-[Document86]
+[Document87]
 DocumentPath=PcbLib_Pin_Headers.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1499,7 +1516,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NWCMTPTA
 
-[Document87]
+[Document88]
 DocumentPath=PcbLib_ICs.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1516,7 +1533,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XANYHLOI
 
-[Document88]
+[Document89]
 DocumentPath=PcbLib_Others.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1533,7 +1550,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QOYPUYRG
 
-[Document89]
+[Document90]
 DocumentPath=PcbLib_Discrete.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1550,7 +1567,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SEVEWXNI
 
-[Document90]
+[Document91]
 DocumentPath=PcbLib_Connectors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1567,7 +1584,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MNNQPSXE
 
-[Document91]
+[Document92]
 DocumentPath=PcbLib_RC.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
