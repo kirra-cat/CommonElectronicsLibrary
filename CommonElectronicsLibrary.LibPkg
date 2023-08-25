@@ -1629,6 +1629,23 @@ GenerateClassCluster=0
 DocumentUniqueId=PZFKPWGD
 
 [Document94]
+DocumentPath=Schlib_Rockchip.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=PGOMTMYC
+
+[Document95]
 DocumentPath=Schlib_Rosenberger.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1645,7 +1662,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TWNUKYYA
 
-[Document95]
+[Document96]
 DocumentPath=Schlib_Ruimeng.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1662,7 +1679,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FALJFNYB
 
-[Document96]
+[Document97]
 DocumentPath=Schlib_Runic.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1679,7 +1696,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LWTGVXZS
 
-[Document97]
+[Document98]
 DocumentPath=Schlib_Scondar.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1696,7 +1713,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KPBSVBFI
 
-[Document98]
+[Document99]
 DocumentPath=Schlib_Semtech.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1713,7 +1730,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HRCISZBZ
 
-[Document99]
+[Document100]
 DocumentPath=Schlib_SG_Micro.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1730,7 +1747,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NJXQHREG
 
-[Document100]
+[Document101]
 DocumentPath=Schlib_ShenZhen_XiaoTeng.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1747,7 +1764,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KTVYSEWG
 
-[Document101]
+[Document102]
 DocumentPath=Schlib_Signle_Board_Computer.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1764,7 +1781,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NCJXMOQX
 
-[Document102]
+[Document103]
 DocumentPath=Schlib_Silergy.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1781,7 +1798,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ROBNAXJN
 
-[Document103]
+[Document104]
 DocumentPath=Schlib_Silicon_Labs.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1798,7 +1815,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YSHITSIJ
 
-[Document104]
+[Document105]
 DocumentPath=Schlib_SiTime.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1815,7 +1832,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XWONZQBF
 
-[Document105]
+[Document106]
 DocumentPath=Schlib_STMicroelectronics.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1832,7 +1849,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CMNLGPJM
 
-[Document106]
+[Document107]
 DocumentPath=Schlib_Taiwan_Semiconductor.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1849,7 +1866,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SSZVLAUU
 
-[Document107]
+[Document108]
 DocumentPath=Schlib_TDK_Corporation.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1866,7 +1883,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BUCOCKSB
 
-[Document108]
+[Document109]
 DocumentPath=Schlib_TE_Connectivity.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1883,7 +1900,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WPYKYBPK
 
-[Document109]
+[Document110]
 DocumentPath=Schlib_Texas_Instruments.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1900,7 +1917,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UDOTKRJB
 
-[Document110]
+[Document111]
 DocumentPath=Schlib_Toshiba_Semiconductor.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1917,7 +1934,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TZVVQTTB
 
-[Document111]
+[Document112]
 DocumentPath=Schlib_TXC.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1934,7 +1951,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KAGHAAQZ
 
-[Document112]
+[Document113]
 DocumentPath=Schlib_UMW.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1951,7 +1968,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XSYGJVZM
 
-[Document113]
+[Document114]
 DocumentPath=Schlib_VIA_Labs.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1968,7 +1985,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XFTCXIYZ
 
-[Document114]
+[Document115]
 DocumentPath=Schlib_Vishay.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1985,7 +2002,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XTGVLGME
 
-[Document115]
+[Document116]
 DocumentPath=Schlib_Voltbricks.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2002,7 +2019,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XQREMNEM
 
-[Document116]
+[Document117]
 DocumentPath=Schlib_VZPP_S.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2019,7 +2036,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VSQMHGNM
 
-[Document117]
+[Document118]
 DocumentPath=Schlib_Xilinx.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2036,7 +2053,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OLSQEDPM
 
-[Document118]
+[Document119]
 DocumentPath=Schlib_YXC.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2053,7 +2070,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NELMZDFK
 
-[Document119]
+[Document120]
 DocumentPath=Schlib_Wakefield_Vette.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2070,7 +2087,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZVDFIZOS
 
-[Document120]
+[Document121]
 DocumentPath=Schlib_Wayon.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2087,7 +2104,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RIVYHUSK
 
-[Document121]
+[Document122]
 DocumentPath=Schlib_WCH.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2104,7 +2121,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WIYXVAFU
 
-[Document122]
+[Document123]
 DocumentPath=Schlib_Winbond_Electronics.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2121,7 +2138,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VLRFWMAO
 
-[Document123]
+[Document124]
 DocumentPath=Schlib_Wiznet.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2138,7 +2155,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HQXFUTRQ
 
-[Document124]
+[Document125]
 DocumentPath=Schlib_WorldSemi.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2155,7 +2172,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CFXLZZQR
 
-[Document125]
+[Document126]
 DocumentPath=Schlib_Wurth_Electronics.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2172,7 +2189,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DJMBEBCF
 
-[Document126]
+[Document127]
 DocumentPath=Schlib_OtherComponents.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2189,7 +2206,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HOHBTCDF
 
-[Document127]
+[Document128]
 DocumentPath=PcbLib_Pin_Headers.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2206,7 +2223,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NWCMTPTA
 
-[Document128]
+[Document129]
 DocumentPath=PcbLib_Pin_Headers_part2.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2223,7 +2240,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TDERNICP
 
-[Document129]
+[Document130]
 DocumentPath=PcbLib_ICs.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2240,7 +2257,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XANYHLOI
 
-[Document130]
+[Document131]
 DocumentPath=PcbLib_ICs_part2.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2257,7 +2274,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XOSOSJLE
 
-[Document131]
+[Document132]
 DocumentPath=PcbLib_Others.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2274,7 +2291,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QOYPUYRG
 
-[Document132]
+[Document133]
 DocumentPath=PcbLib_Discrete.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2291,7 +2308,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SEVEWXNI
 
-[Document133]
+[Document134]
 DocumentPath=PcbLib_Connectors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2308,7 +2325,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MNNQPSXE
 
-[Document134]
+[Document135]
 DocumentPath=PcbLib_RC.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2544,6 +2561,18 @@ OutputDocumentPath13=
 OutputVariantName13=
 OutputDefault13=0
 PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType14=PCBDrawing
+OutputName14=Draftsman
+OutputDocumentPath14=
+OutputVariantName14=[No Variations]
+OutputDefault14=0
+PageOptions14=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType15=PCBDrawing
+OutputName15=Draftsman
+OutputDocumentPath15=
+OutputVariantName15=[No Variations]
+OutputDefault15=0
+PageOptions15=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup4]
 Name=Assembly Outputs
@@ -2687,12 +2716,12 @@ OutputDocumentPath8=
 OutputVariantName8=[No Variations]
 OutputDefault8=0
 PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType9=Export Project History
-OutputName9=Export Project History
+OutputType9=Project History
+OutputName9=Project History
 OutputDocumentPath9=
 OutputVariantName9=[No Variations]
 OutputDefault9=0
-PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup7]
 Name=Other Outputs
